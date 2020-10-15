@@ -1,0 +1,11 @@
+{
+  "name": "npProject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/LouisHubien/npProject",
+  "author": "Louis Hubien <louis.hubien@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^5.1.1"
+  }
+}
