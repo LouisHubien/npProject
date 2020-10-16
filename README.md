@@ -1,6 +1,6 @@
 # npProject
 
-# npProject
+# npProject Dating site
 
 - Repository: `OOP`
 - Type de challenge:  `Consolidation`
@@ -18,30 +18,6 @@
 Durant le mois à venir vous aurez l'occasion de réaliser un projet réaliste dans des conditions réalistes. Cela va vous permettre de roder vos nouvelles connaissances en nodeJs et en PHP orienté objet. Ce site sera votre carte de visite, le fer de lance de votre site CV !
 
 ## La Mission
-
-Voici les thèmes proposés :
-
-- Événementiel 
-- Portail actualités
-- Promouvoir l'artisanat 
-- Site de tourisme 
-- Site de rencontre
-
-### Événementiel
-
-Un site web événementiel est le support médiatique idéal pour provoquer ou suivre un événement. Il permet de proposer au plus grand nombre, une information directe ou différée sur diverses manifestations. Il offre la possibilité de mettre à disposition de différents publics un contenu multimédia (texte, image, son, vidéo) donnant une couverture maximale et attractive à l'événement ou à la campagne de promotion.
-
-### Portail actualités
-
-Il existe de nombreux sites internet d'actualités, mais on en distingue deux catégories, ceux qui sont des plateformes généralistes et ceux qui se concentrent sur une seule thématique. Le site d'actualités généraliste propose des articles sur des sujets tels que la politique, le social, le sport, le divertissement, etc.
-
-### Promouvoir l'artisanat
-
-Tous les pays se plaignent d'une baisse d'activité dans l'artisanat. La révolution industrielle, la fabrication à la chaîne et la concurrence des pays émergents ont littéralement détruit une grande partie de l'artisanat. De nos jours, l'artisanat est plutôt considéré comme un secteur du passé où on voit des personnes qui tentent de survivre au jour le jour. Mais c'est une fausse image véhiculée par les médias et la société de consommation. De nombreuses études montrent un regain d'intérêt énorme pour les produits d'artisanat. Ces derniers sont plus authentiques et ils bénéficient d'une finition irréprochable contrairement aux produits fabriqués à la chaîne. Malheureusement, les artisans sont rarement présents sur le web, car ils pensent qu'une création site internet dédié à l'artisanat n'est pas intéressante alors que c'est le contraire.
-
-### Site de tourisme 
-
-Les sites sur le tourisme envahissent la toile, chaque hôtel, restaurant et attraction touristique possède son propre site web. Le tourisme est très rentable, notamment avec la diversité des techniques de monétisation. La création de site web sur le tourisme implique une recherche approfondie de la concurrence, mais aussi de l'approche sur la stratégie de contenu et des services qu'on veut proposer. En gros, on peut créer deux principaux sites de tourismes, celui qui se concentre sur le contenu avec des articles qui décrivent les attractions, l'hébergement et la restauration. Et on a celui qui propose des réservations en ligne sur les billets d'avions et les hôtels.
 
 ### Site de rencontre
 
